@@ -1,0 +1,12 @@
+accelerate>=0.26.0
+transformers>=4.46.3
+safetensors>=0.4.5
+huggingface-hub>=0.21.0
+fastapi>=0.109.0
+uvicorn>=0.27.0
+triton>=2.1.0
+pydantic>=2.5.3
+tqdm>=4.67.1
+openai>=1.58.1
+numpy>=1.26.4
+typing_extensions>=4.8.0
